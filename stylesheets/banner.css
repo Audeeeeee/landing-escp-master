@@ -1,0 +1,16 @@
+#banner {
+  background-image: url(../images/terasa.jpg);
+  color: white;
+  padding: 150px 50px;
+  background-size: cover;
+}
+
+#banner h1 {
+  font-size: 100px;
+  color: white;
+}
+
+#banner p {
+  font-size: 25px;
+  font-weight: 100;
+}
